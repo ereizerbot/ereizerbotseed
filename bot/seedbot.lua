@@ -232,18 +232,12 @@ https://github.com/ereizerbot/ereizerbotseed
 
 Admins
 @djmjcj 
-@mrereizer 
-@kingblack1 
-@ereizerbot [robotid]
 
 Special thanks to
 iliya
-mohammad
-eshagh
-ereizerteam
 
 Our channels
-@ereizrch [English]
+@teledevilch [English]
 ]],
     help_text = [[
 Commands list :
